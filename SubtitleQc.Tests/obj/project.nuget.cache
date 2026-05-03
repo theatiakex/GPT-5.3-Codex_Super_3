@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "X8+CubqEg7Q=",
+  "success": false,
+  "projectFilePath": "C:\\KTH\\KEX\\GPT-5.3 Codex\\Super\\GPT-5.3-Codex_Super_3\\SubtitleQc.Tests\\SubtitleQc.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1015",
+      "level": "Error",
+      "message": "The following PackageReference item(s) do not have a version specified: coverlet.collector, Microsoft.NET.Test.Sdk, xunit, xunit.runner.visualstudio",
+      "projectPath": "C:\\KTH\\KEX\\GPT-5.3 Codex\\Super\\GPT-5.3-Codex_Super_3\\SubtitleQc.Tests\\SubtitleQc.Tests.csproj",
+      "filePath": "C:\\KTH\\KEX\\GPT-5.3 Codex\\Super\\GPT-5.3-Codex_Super_3\\SubtitleQc.Tests\\SubtitleQc.Tests.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
